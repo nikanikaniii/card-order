@@ -1,1 +1,1 @@
-![Build](https://github.com/nikanikaniii/card-order/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/nikanikaniii/api-ci/actions/workflows/build.yml/badge.svg)
