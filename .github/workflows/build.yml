@@ -14,6 +14,6 @@ jobs:
       - name: Права на gradlew
         run: chmod +x gradlew
       - name: Запуск сервиса в фоне
-        run: java -jar ./artifacts/app-mbank.jar &
+        run: java -jar ./artifacts/app-order.jar &
       - name: Запуск тестов
         run: ./gradlew test --info
